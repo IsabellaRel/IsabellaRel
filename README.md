@@ -1,6 +1,6 @@
 # Cześć, jestem Iza :) 
 
-// TODO:
+**TODO:**
 – kawa
 – kod
 – cichy płacz, że znowu nie działa
