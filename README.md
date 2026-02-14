@@ -1,3 +1,3 @@
-# Cześć, jestem Iza :) 
+# Cześć :)
 
 **TODO:** kawa; kod; cichy płacz, że znowu nie działa; popraw i wyjdź jak królowa 👑
